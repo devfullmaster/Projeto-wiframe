@@ -19,7 +19,7 @@ O projeto foi desenvolvido com as seguintes ferramentas:
 
 - HTML
 - CSS
-
+- AOS
 ---
 
 ### 🚀 ​ [Clique aqui](https://projeto-wiframe.vercel.app)🔗 e veja o projeto no ar.
